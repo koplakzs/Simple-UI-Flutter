@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_ui/theme/my_theme.dart';
+import 'package:simple_ui/simple_ui_1/theme/my_theme.dart';
 
 class BottomNavigation extends StatefulWidget {
   const BottomNavigation(

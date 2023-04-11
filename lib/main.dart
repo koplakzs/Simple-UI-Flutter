@@ -1,10 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:simple_ui/screen/home.dart';
-import 'package:simple_ui/screen/profile.dart';
-import 'package:simple_ui/widgets/bottom_navbar.dart';
+import 'package:simple_ui/simple_ui_1/screen/home.dart';
+import 'package:simple_ui/simple_ui_1/screen/profile.dart';
+import 'package:simple_ui/simple_ui_1/widgets/bottom_navbar.dart';
 
 void main() => runApp(const MyApp());
 
+//Simple UI 1
 class MyApp extends StatefulWidget {
   const MyApp({super.key});
 
